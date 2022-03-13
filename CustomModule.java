@@ -1,4 +1,4 @@
-package com.vc;
+package com.//packageName;
 
 import android.provider.Settings;
 import android.widget.Toast;
